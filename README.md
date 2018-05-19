@@ -1,6 +1,6 @@
-# Getting and Cleaning Data - Assignment
+# Getting and Cleaning Data - tidyProject
 
-This is an assignment for Getting and Cleaning Data course. R script called 'run_analysis.R' does the following:
+R script called 'run_analysis.R' does the following:
 
 - Merges the training and the test sets to create one data set.
 - Extracts only the measurements on the mean and standard deviation for each measurement.
